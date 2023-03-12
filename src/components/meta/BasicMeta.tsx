@@ -4,7 +4,7 @@ import config from "../../lib/config";
 type Props = {
   title?: string;
   description?: string;
-  keywords?: { keyword: string; }[];
+  keywords?: any;
   author?: string;
   url: string;
 };
