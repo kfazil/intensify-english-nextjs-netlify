@@ -2,7 +2,9 @@
   "base_url": "https://www.intensifyenglish.com",
   "site_title": "Intensify English",
   "site_description": "Simplifying English for ESL students!",
-  "site_keywords": [],
+  "site_keywords": [
+    "{keyword: english}"
+  ],
   "posts_per_page": 5,
   "twitter_account": "@intensifyenglish",
   "github_account": "kfazil"
